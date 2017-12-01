@@ -5,7 +5,6 @@ var app = express();
 var hbs = require('hbs');
 
 // Apply authentication to server.
-// Username: Bane, Password: rip
 //app.use(express.basicAuth('Bane', 'rip'));
 app.use(express.static(__dirname));
 app.engine('html', require('hbs').__express);
