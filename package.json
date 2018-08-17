@@ -9,8 +9,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "preinstall": "npm install pm2 -g",
-    "start": "pm2 start index.js -i max --attach"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
