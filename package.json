@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "threesixtydev",
   "version": "0.0.1",
   "description": "",
   "main": "index.html",
@@ -18,10 +18,7 @@
   },
   "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": ""
-  },
-  "homepage": "",
+  "homepage": "https://www.360dev.com",
   "subdomain": "",
   "engines": {
     "node": "0.10.x"
