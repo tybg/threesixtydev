@@ -1114,6 +1114,7 @@
 
 		#footer .icons {
 			margin: 0 0 0.5em 0;
+			margin-right: 20px;
 		}
 
 		#footer .copyright {
@@ -1162,6 +1163,7 @@
 			#footer {
 				bottom: 2em;
 				left: 2em;
+				display: flex;
 			}
 
 		}
